@@ -1,0 +1,5 @@
+Expression used for day 1 of theme training
+
+(href|rel|src)="(assets[a-zA-z0-9/.-]*)"
+
+$1="{% static '$2' %}"
